@@ -4,7 +4,7 @@
 <groupId>com.fabrikam.azure.appdemo</groupId>
 <artifactId>ROOT</artifactId>
 <packaging>war</packaging>
-<!-- <version>0.0.1-SNAPSHOT</version> -->
+<version></version>
 <name>ROOT</name>
 <dependencies>
     <dependency>
