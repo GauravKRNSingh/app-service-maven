@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '589015e5-864e-4208-bb67-9c53508184c6'
+  azureSubscription: 'nodejsGaurav'
   
   # Web app name
   webAppName: 'gauravmaven'
